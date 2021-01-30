@@ -5,10 +5,6 @@
 The app contains various characters from some of famous comic books publishers.
 you can brows or search characters by their name and see results change dynamically.
 
-## [To see live](https://or-yam.github.io/superhero-api-app/)
-
----
-
 ### Tools and Libraries
 
 - Client Side - React, Tachyons (CSS ToolKit)
