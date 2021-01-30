@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'International Super Hero';
+  font-style: normal;
+  font-weight: normal;
+  src: local('International Super Hero'),
+    url('./fonts/intsh.woff') format('woff');
+}
+
+h1 {
+  font-family: 'International Super Hero';
+  font-size: 48px;
+  text-shadow: 4px 4px 4px black;
+  color: #F2F4E5;
+}
